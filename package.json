@@ -4,9 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@types/jsonwebtoken": "^9.0.2",
     "jsonwebtoken": "^9.0.1"
-  },
-  "devDependencies": {
-    "@types/jsonwebtoken": "^9.0.2"
   }
 }
