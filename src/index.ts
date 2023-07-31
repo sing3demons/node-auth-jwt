@@ -1,1 +1,3 @@
-export * from './jwt'
+import JsonWebToken from './jwt'
+
+export default JsonWebToken
