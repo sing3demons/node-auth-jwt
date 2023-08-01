@@ -4,13 +4,13 @@
   "description": "Node.js authentication with JWT",
   "main": "lib/index.js",
   "license": "MIT",
-  "module": "src/index.d.ts",
+  "module": "lib/index.js",
   "scripts": {
     "build": "tsc"
   },
   "files": [
     "lib/index.js",
-    "src/index.d.ts"
+    "lib/index.d.ts"
   ],
   "repository": {
     "type": "git",
